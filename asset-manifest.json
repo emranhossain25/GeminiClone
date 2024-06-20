@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GeminiClone/static/css/main.65d9aae4.css",
+    "main.js": "/GeminiClone/static/js/main.9e073dd4.js",
+    "static/js/453.d379bf65.chunk.js": "/GeminiClone/static/js/453.d379bf65.chunk.js",
+    "static/media/user_icon.png": "/GeminiClone/static/media/user_icon.8819483ee7d653116bf2.png",
+    "static/media/gallery_icon.png": "/GeminiClone/static/media/gallery_icon.1da1416be560b7741007.png",
+    "index.html": "/GeminiClone/index.html",
+    "main.65d9aae4.css.map": "/GeminiClone/static/css/main.65d9aae4.css.map",
+    "main.9e073dd4.js.map": "/GeminiClone/static/js/main.9e073dd4.js.map",
+    "453.d379bf65.chunk.js.map": "/GeminiClone/static/js/453.d379bf65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65d9aae4.css",
+    "static/js/main.9e073dd4.js"
+  ]
+}
